@@ -39,4 +39,12 @@ padding-left: 10px;}
 .rightsection img{width: 80%;
 }
 .purple, #element{color: rgb(170,107 ,228 );}
-.secondsection{max-width: 80vw;margin: auto;}
+.secondsection{max-width: 80vw;margin: auto; height: 80vh;}
+.secondsection h1{font-size: 1.9rem;}
+.secondsection .box{background-color: white;width: 80vw; height: 2px; margin: 56px 0;display: flex;}
+.secondsection .vertical{height: 93px;width: 1px;background-color: white;margin: 0 100px;}
+.image-top{width: 23px;position: relative;top:-32px;left: -9px;}
+.vertical-title{position: relative; top: 75px;width: 150px;}
+.vertical-desc{}
+.text-gray{color: grey;}
+
